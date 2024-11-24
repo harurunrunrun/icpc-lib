@@ -1,4 +1,4 @@
-# icpc-lib
+# Library for ICPC Regional
 ICPC C++ library 
 These codes were referred to the following URLs for reference.
 - [Atcoder Library](https://github.com/atcoder/ac-library/tree/master)
